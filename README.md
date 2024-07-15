@@ -44,6 +44,4 @@ May and December in 2005 accounted for significant portions of the total profit,
 
 Weekdays make up a significant portion (72.0%) of the total profit, indicating higher sales during the week compared to weekends.
 
-These insights highlight the critical factors driving sales and profitability, such as top-performing products, key customer segments, pricing strategies, and geographical contributions. 
-
-They provide a comprehensive understanding of sales performance, helping in strategic decision-making to maximize revenue and profitability.
+These insights highlight the critical factors driving sales and profitability, such as top-performing products, key customer segments, pricing strategies, and geographical contributions. They provide a comprehensive understanding of sales performance, helping in strategic decision-making to maximize revenue and profitability.
